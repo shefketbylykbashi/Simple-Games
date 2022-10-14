@@ -15,3 +15,13 @@ Snake game<br/>
 
 Pong game<br/>
 ![Pong](https://user-images.githubusercontent.com/94128957/195805430-f019c74a-5060-4541-bc8c-0321a17c1dbb.png)<br/>
+
+
+
+Tetris game<br/>
+![Tetris](https://user-images.githubusercontent.com/94128957/195839014-7d3c71af-9a66-4cc6-854c-7940ac32ea5e.png)<br/>
+
+
+
+Asteroids game<br/>
+![Asteroid](https://user-images.githubusercontent.com/94128957/195839114-8e73480a-782a-4268-8fc5-c7d97f036f53.png)<br/>
