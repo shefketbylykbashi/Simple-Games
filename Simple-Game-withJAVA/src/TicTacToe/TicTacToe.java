@@ -1,4 +1,4 @@
-package application;
+package TicTacToe;
 	
 import javafx.application.Application;
   import javafx.stage.Stage;
