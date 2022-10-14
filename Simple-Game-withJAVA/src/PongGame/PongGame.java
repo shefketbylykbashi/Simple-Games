@@ -1,4 +1,4 @@
-package application;
+package PongGame;
 
 import java.util.Random;
 import javafx.animation.KeyFrame;
