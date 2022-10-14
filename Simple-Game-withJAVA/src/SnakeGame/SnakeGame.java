@@ -1,4 +1,4 @@
-package application;
+package SnakeGame;
 
 import java.util.Random;
 import javafx.application.Application;
