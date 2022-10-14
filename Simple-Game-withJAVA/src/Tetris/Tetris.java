@@ -1,4 +1,4 @@
-package application;
+package Tetris;
 
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
